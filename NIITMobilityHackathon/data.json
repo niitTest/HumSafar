@@ -1,0 +1,15 @@
+{
+  "routes":{
+    "route1":{
+        "modes":["Cycle","Metro","Cab"],
+        "total_time": "78 minutes",
+        "total_fare": "450 INR"
+      },
+    "route2":{
+      "modes":["Cycle","Metro","Cab"],
+      "total_time": "78 minutes",
+      "total_fare": "450 INR"
+    }
+  }
+  
+}
